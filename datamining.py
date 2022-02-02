@@ -192,3 +192,4 @@ main()
 # Non, nous pouvons uniquement statuer en ce qui concerne le jeu de données et la division utilisée.
 # D'ailleurs, nous avons des résultats différents selon le mélange aléatoire réalisé.
 # Pour avoir une réponse plus correcte, il faut utiliser une VALIDATION CROISÉE.
+# drn pointdd
